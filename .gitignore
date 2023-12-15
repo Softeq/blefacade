@@ -1,0 +1,9 @@
+.vscode/
+build/
+third_party/
+components/bluez/build/
+components/bluez/include/generated/
+examples/bluez_gatt_server/build/
+examples/esp32_gatt_server/build/
+examples/bluez_softsecure_server/build/
+examples/esp32_softsecure_server/build/
